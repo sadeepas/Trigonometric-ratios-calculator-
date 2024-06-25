@@ -1,0 +1,8 @@
+Explanation:
+tkinter: Used for creating the GUI.
+math: Used for trigonometric calculations.
+Radiobuttons (rb_leg, rb_angle) are used to choose whether to find the other leg or angle.
+Entries (entry_leg, entry_angle, entry_leg1, entry_leg2) allow user input for leg lengths and angles.
+Radiobuttons (rb_sin, rb_cos, rb_tan) allow the user to choose the trigonometric ratio (sin, cos, tan) to calculate.
+Button (btn_calculate) triggers the calculation based on user inputs.
+Label (lbl_result) displays the result of the calculation.
